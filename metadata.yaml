@@ -1,0 +1,31 @@
+_repo: Venne-Richerdes-b-Roman-aus-der-Geschichte-Goslars_75443
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kassebaum, Hermann
+    birthdate: 1871
+    deathdate: 1954
+    gutenberg_agent_id: '57998'
+    url: http://www.gutenberg.org/2009/agents/57998
+    wikipedia: https://de.wikipedia.org/wiki/Hermann_Kassebaum
+description: ''
+gutenberg_issued: '2025-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75443'
+language: de
+pgterms:marc905: 20231029062214kassebaum
+pgterms:marc906: '1925'
+pgterms:marc907: de
+production_note: Hans Theyer and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aBerlin :$bVerlag von Martin Warneck, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+- GITenberg
+title: 'Venne Richerdes : $b Roman aus der Geschichte Goslars'
+url: http://www.gutenberg.org/ebooks/75443
